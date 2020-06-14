@@ -6,3 +6,5 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 ![GitHub Logo](/images/keypoint_eg1.png)
 Format: ![Alt Text](url)
+![GitHub Logo](/images/keypoint_eg2.png)
+Format: ![Alt Text](url)

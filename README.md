@@ -8,3 +8,13 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 Format: ![Alt Text](url)
 ![GitHub Logo](/images/keypoint_eg2.png)
 Format: ![Alt Text](url)
+
+The project will be broken up into a few main parts in three Python notebooks and a file : 
+
+Notebook 1 : Loading and Visualizing the Facial Keypoint Data
+
+Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+
+Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+
+File : model.py

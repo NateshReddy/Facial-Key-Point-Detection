@@ -18,3 +18,8 @@ Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predi
 Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
 File : model.py
+
+## Requirements
+Please see the requirements.txt file. To ensure you're up to date, run:
+
+pip install -r requirements.txt

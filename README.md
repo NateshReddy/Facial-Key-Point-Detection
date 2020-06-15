@@ -27,3 +27,10 @@ pip install -r requirements.txt
 ## Getting the Dataset 
 Data Set used is [Youtube Face Dataset](https://www.cs.tau.ac.il/~wolf/ytfaces/)
 It is a dataset that contains 3,425 face videos designed for studying the problem of unconstrained face recognition in videos. These videos have been fed through processing steps and turned into sets of image frames containing one face and the associated keypoints.
+
+## Training 
+Run the notebook 1 for loading and visualizing the data.
+Then the notebook 2 where the architecture is defined and the model is being trained.
+
+## Testing
+In the notebook 3 the keypoint have been displayed using the show_all_keypoints().

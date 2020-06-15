@@ -23,3 +23,6 @@ File : model.py
 Please see the requirements.txt file. To ensure you're up to date, run:
 
 pip install -r requirements.txt
+
+## Getting the Dataset 
+Data Set used is [Youtube Face Dataset](https://www.cs.tau.ac.il/~wolf/ytfaces/)
